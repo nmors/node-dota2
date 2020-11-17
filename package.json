@@ -4,7 +4,7 @@
   "dependencies": {
     "bignumber.js": "^2.1.0",
     "deferred": "^0.7.2",
-    "merge": "^1.2.0",
+    "merge": "^2.1.0",
     "protobufjs": "^5.0.0",
     "steam": "^1.2.0"
   },
